@@ -1,0 +1,2 @@
+# M1_electricity_bill_calculator
+simple code for electricity_bill_calculator
